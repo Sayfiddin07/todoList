@@ -31,7 +31,7 @@ window.addEventListener('DOMContentLoaded',()=>{
                 <input type="checkbox">
                 ${index+1}. ${item}
                  <input type="checkbox">
-                    <div class="erase">x</div>
+                    <div class="erase">×</div>
                 </li>
                 <hr/>`;
         });
